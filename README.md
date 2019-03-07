@@ -41,7 +41,7 @@ Start the server with npm run start.
 
 Additionally create a system service (linux) or startup shortcut (windows) to start the server on bootup Browser:
 --
-Install a userscript extension for your browser like Tampermonkey/
+Install a userscript extension for your browser like http://tampermonkey.net/
 
 Download & install soundcloud-rp.user.js.
 
