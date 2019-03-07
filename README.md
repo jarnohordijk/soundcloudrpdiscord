@@ -1,5 +1,5 @@
 # soundcloudrpdiscord
-Soundcloud rich presence for Discord
+Discord rich presence for SoundCloud
 --
 Standalone Installer:
 --
