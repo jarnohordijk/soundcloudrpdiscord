@@ -39,7 +39,7 @@ Paste it in the corresponding field of the config/default.json file.
 Start the server with npm run start.
 
 
-Additionally create a systemd service (linux) or startup shortcut (windows) to start the server on bootup Browser:
+Additionally create a system service (linux) or startup shortcut (windows) to start the server on bootup Browser:
 --
 Install a userscript extension for your browser like Tampermonkey/
 
