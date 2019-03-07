@@ -3,7 +3,7 @@ Soundcloud rich presence for Discord
 --
 Standalone Installer:
 --
-https://github.com/riverrrrrr/discord-soundcloud/releases/download/3.0.0/SoundCloud.Setup.3.0.0.exe
+https://bit.ly/2C5f7C8
 
 Install nodejs (v10) and npm (v6)
 --
