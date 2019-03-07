@@ -2,6 +2,7 @@
 Soundcloud rich presence for Discord
 
 Standalone Installer:
+--
 https://github.com/riverrrrrr/discord-soundcloud/releases/download/3.0.0/SoundCloud.Setup.3.0.0.exe
 
 Install nodejs (v10) and npm (v6)
@@ -11,7 +12,7 @@ https://nodejs.org/en/download/current/
 Make sure the node & npm commands are installed on your PATH.
 
 Server:
-
+--
 Clone the repository somewhere on your hard drive or unzip this archive if you don't have git installed.
 
 Open a terminal in the soundcloud-rp directory.
@@ -20,6 +21,7 @@ Install the dependencies with npm install.
 
 
 Retrieve your Soundcloud ClientID :
+--
 Open Soundcloud then hit Ctrl+Shift+I to open the devtools.
 
 Go to the Network tab.
@@ -37,9 +39,8 @@ Paste it in the corresponding field of the config/default.json file.
 Start the server with npm run start.
 
 
-Additionnaly create a systemd service (linux) or startup shortcut (windows) to start the server on bootup
-Browser:
-
+Additionnaly create a systemd service (linux) or startup shortcut (windows) to start the server on bootup Browser:
+--
 Install a userscript extension for your browser like Tampermonkey/
 
 Download & install soundcloud-rp.user.js.
@@ -48,7 +49,7 @@ Open soundcloud & enjoy
 
 
 Artwork upload.
-
+--
 Here is a step by step guide to activate artwork upload:
 
 In the config/default.json file, change uploadArtwork from false to true.
